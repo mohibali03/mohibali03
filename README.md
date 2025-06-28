@@ -1,70 +1,43 @@
-<h1 align="center">Hi 👋, I'm Mohib Ali</h1>
-<h3 align="center">Cloud Enthusiast | Full Stack Developer | Lifelong Learner</h3>
+# Hi there, I'm Mohib Ali 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub!;I+love+Cloud+%26+Code!;Building+for+impact+💻" alt="Typing SVG" />
-</p>
+## 🚀 About Me
+I'm an enthusiastic **Cloud & DevOps Engineer** focused on AWS architecture, infrastructure as code, and automated CI/CD workflows. With over 3 years of consistent interest and hands-on exploration in the cloud domain, I enjoy building scalable solutions and solving real-world problems.
 
----
+## 🛠️ Tech Stack
 
-### 💼 Tech Stack
+### Frontend Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,mysql,mongodb,aws,git,linux" />
-</p>
+### Backend & Database
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
+### DevOps & Tools
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Shell Script](https://img.shields.io/badge/-Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+![Mohib's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohibali03&show_icons=true&theme=radical)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohibali03&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohibali03&theme=radical)
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohibali03&theme=tokyonight" alt="GitHub Streak" />
-</p>
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohibali03)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohibsolanki@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/mohib03)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohibali03&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 🧠 Currently Learning
-
-- AWS Services (EC2, S3, Lambda, CloudFormation)
-- Backend Development (Spring Boot, Node.js)
-- System Design & DevOps Basics
-
----
-
-### 🚀 Projects
-
-- 🔗 [My Portfolio](https://mohibali03.github.io/)
-- 💼 [E-commerce Platform](https://ecom.amaksolution.in)
-- ☁️ [Cloud Projects Repository](#)
+## 🎯 Current Focus
+- 🌩️ Learning AWS services and cloud architecture
+- 🔄 Exploring CI/CD pipeline automation
+- 📚 Advancing DevOps practices and tools
+- 🚀 Building scalable web applications
 
 ---
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohibali03/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mohibali03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://twitter.com/mohibali03" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
-
----
-
-
-> “Code is like humor. When you have to explain it, it’s bad.”
-
----
-
+⭐️ From [mohibali03](https://github.com/mohibali03)
