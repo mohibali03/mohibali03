@@ -39,5 +39,3 @@ I'm an enthusiastic **Cloud & DevOps Engineer** focused on AWS architecture, inf
 - 📚 Advancing DevOps practices and tools
 - 🚀 Building scalable web applications
 
----
-⭐️ From [mohibali03](https://github.com/mohibali03)
